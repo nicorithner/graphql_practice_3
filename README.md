@@ -38,3 +38,7 @@ Run
 <img src='sample_query_launches.png' width='500'><br/>
 <small>Sample Query: Launches</small>
 </p>
+<p align="center">
+<img src='sample_query_one_launch.png' width='500'><br/>
+<small>Sample Query: Launch</small>
+</p>
